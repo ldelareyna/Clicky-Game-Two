@@ -1,0 +1,14 @@
+.jumbotron {
+  background-image: url('../../assets/images/warcraft.jpg');
+  background-size: 480px 167px;
+  font-family: 'Sigmar One', cursive;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  clear:both;
+}
+
+.jumbotron p {
+  font-size: 30px;
+  text-shadow: 2px 2px 4px #000000;
+}

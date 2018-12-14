@@ -1,0 +1,16 @@
+.console {
+  color: #ebe5d8;
+  background-color: #815e5f;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  width: 34%;
+  font-family: 'Sigmar One', cursive;
+  float:left;
+  min-height: 75px;
+}
+
+.console h2 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 20px;
+}
